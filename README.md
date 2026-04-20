@@ -1,17 +1,5 @@
-# Welcome to FIXRS 👋
+# .github
 
-We build tools and solutions focused on reliability, scalability, and developer experience.
+This is the special `.github` repository for the FIXRS organization.
 
-## 🚀 What we do
-
-- Build open-source projects and internal tooling
-- Collaborate on software that solves real problems
-- Share knowledge and best practices across teams
-
-## 🤝 Get Involved
-
-Interested in contributing? Check out our repositories and open issues — all contributions are welcome!
-
-## 📫 Contact
-
-Feel free to reach out via our repository issues or discussions.
+The [`profile/README.md`](./profile/README.md) file in this repository is displayed on the [FIXRS public organization profile](https://github.com/FIXRS) and is visible to anyone.
